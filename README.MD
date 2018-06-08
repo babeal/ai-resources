@@ -10,5 +10,5 @@
 
 ## Courses
 
-- [Udacity assessment](https://admissions.udacity.com/assess) - don't know where to start in your learning, take this quiz
+- [Udacity assessment](https://admissions.udacity.com/assess) - don't know where to start in your learning? take this quiz
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
