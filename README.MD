@@ -6,6 +6,7 @@
 
 
 ## Books
+- [Grokking Deep Learning (still in development 6/8/2018)](https://www.manning.com/books/grokking-deep-learning)
 
 ## Courses
 
