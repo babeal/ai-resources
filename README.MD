@@ -4,6 +4,8 @@
 
    The tensor flow playground is very useful in visualizing how a neural network works.  Even though it simulates a very basic network you can watch how each epoch affects the weights of the hidden layers and how each node of each layer affects the nodes of the next layer.  So when you are first learning about perceptrons/tensors you can visually see how each unit affects the actual output.  It's really amazing.
 
+## Links
+- [Visual Intro to Machine Learning (part2)](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
 
 ## Books
 - [Grokking Deep Learning (still in development 6/8/2018)](https://www.manning.com/books/grokking-deep-learning)
